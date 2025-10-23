@@ -1,0 +1,9 @@
+[submodule "Progamify-Restful-API"]
+	path = Progamify-Restful-API
+	url = https://github.com/boysitorus/Progamify-Restful-API.git
+[submodule "Progamify-Web-LMS"]
+	path = Progamify-Web-LMS
+	url = https://github.com/boysitorus/TA-14.git
+[submodule "Progamify-Mobile"]
+	path = Progamify-Mobile
+	url = https://github.com/Enrichez/progamify-mobile.git
