@@ -119,15 +119,15 @@ The platform follows a **Client–Server 3-Layer Architecture**, ensuring modula
 
 ```bash
 # Public Mobile App Repository (accessible to everyone)
-git clone https://github.com/enrichez/Progamify_mobile.git
+git clone https://github.com/enrichez/Progamify_mobile.git Progamify/Progamify-Mobile
 
 # Private LMS Repository (Laravel Filament)
 # Accessible to collaborators only
-git clone https://github.com/boysitorus/TA-14.git lms
+git clone https://github.com/boysitorus/TA-14.git Progamify/Progamify-Web-LMS
 
 # Private RESTful API Repository (Golang)
 # Accessible to collaborators only
-git submodule add https://github.com/boysitorus/Progamify-Restful-API.git backend/Progamify-Restful-API
+git clone https://github.com/boysitorus/Progamify-Restful-API.git Progamify/Progamify-Restful-API
 
 ```
 
