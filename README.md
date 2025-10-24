@@ -16,6 +16,12 @@ Experience how **Progamify** brings motivation and engagement in learning!
 [![Progamify Demo — YouTube](https://img.youtube.com/vi/UdVIn3OPEzw/maxresdefault.jpg)](https://youtu.be/UdVIn3OPEzw)
 ---
 
+## Prototype Preview  
+[![Progamify Prototype](docs/images/prototype-preview.png)](https://www.figma.com/proto/9YncClg7ZwiLVaO3ZfrwaA/Gamification?node-id=9-1466&t=tBYJjOjHZDR3aq01-1)  
+*Click the image to open the interactive Figma prototype.*
+
+👉 [Open the full interactive prototype](https://www.figma.com/design/9YncClg7ZwiLVaO3ZfrwaA/Gamification?node-id=2-2&t=tBYJjOjHZDR3aq01-1)
+
 ## 🚀 Overview
 
 Progamify combines interactive learning and gamification principles to improve learner motivation and institutional monitoring.  
