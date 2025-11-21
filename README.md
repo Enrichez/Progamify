@@ -13,7 +13,7 @@ It consists of the following core components:
 ## 🎬 Demo Video
 
 Experience how **Progamify** brings motivation and engagement in learning! 
-[![Progamify Demo — YouTube](https://img.youtube.com/vi/UdVIn3OPEzw/maxresdefault.jpg)](https://youtu.be/UdVIn3OPEzw)
+
 ---
 
 ## Prototype Preview  
